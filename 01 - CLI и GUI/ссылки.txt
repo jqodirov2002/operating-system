@@ -5,3 +5,5 @@ GUI или CLI в операционных системах: что эффект
 What is GUI and CLI?: https://youtu.be/gIqtWUXYQNk?si=wNQCZDa8Ji1KEv45
 
 NotebookLM: https://notebooklm.google.com/notebook/7179a9ab-623a-4cf0-8980-abc24067e579
+
+youtube: https://youtu.be/KgqS5Eg5RV4?si=KHJrFFjzmSwfFjKv
