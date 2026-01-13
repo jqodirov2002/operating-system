@@ -1,1 +1,1 @@
-NotebookLM: 
+NotebookLM: https://notebooklm.google.com/notebook/6a5e7dfb-fd6b-4270-b577-f9d87519b0f1
